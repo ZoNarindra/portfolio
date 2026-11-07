@@ -103,13 +103,13 @@ export default function Hero() {
 
           <div className="absolute h-72 w-72 rounded-full bg-purple-600/20 blur-[90px]" />
 
-          <div className="relative flex h-64 w-64 items-center justify-center rounded-full border border-purple-400/30 bg-gradient-to-br from-purple-500/20 to-blue-500/10 shadow-[0_0_80px_rgba(139,92,246,0.2)]">
-            <div className="text-center">
-              <Code2 size={90} className="mx-auto text-purple-300" />
-              <p className="mt-4 text-sm font-semibold tracking-widest text-purple-200">
-                CODE · BUILD · DEPLOY
-              </p>
-            </div>
+          <div className="relative h-72 w-72 overflow-hidden rounded-full border border-blue-300/40 bg-gradient-to-br from-blue-500/20 to-cyan-500/10 shadow-[0_0_80px_rgba(59,130,246,0.3)] sm:h-80 sm:w-80">
+            <img
+              src="/Mika%20Rakoto.jpg"
+              alt="Portrait de Mika Rakoto"
+              className="h-full w-full object-cover object-center"
+            />
+            <div className="pointer-events-none absolute inset-0 rounded-full ring-1 ring-inset ring-white/10" />
           </div>
 
           <div className="absolute right-0 top-16 rounded-xl border border-white/10 bg-[#111322]/90 px-4 py-3 shadow-xl backdrop-blur-xl">
