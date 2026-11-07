@@ -32,7 +32,7 @@ export default function Hero() {
           </p>
 
           <h1 className="text-5xl font-bold leading-tight tracking-tight sm:text-6xl lg:text-7xl">
-            Zo Narindra Rakoto.
+            Zo Narindra Rak.
             <br />
             <span className="bg-gradient-to-r from-purple-400 via-fuchsia-400 to-blue-400 bg-clip-text text-transparent">
               Developer.
