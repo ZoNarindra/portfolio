@@ -3,10 +3,10 @@ import { BriefcaseBusiness, GraduationCap } from "lucide-react";
 
 const experiences = [
   {
-    date: "2021 — Aujourd'hui",
+    date: "2023 — Aujourd'hui",
     title: "Développeur informatique",
-    company: "Dirickx Guard Madagascar",
-    description: "Développement et maintenance d'applications internes, notamment GRH/Admin. Amélioration des processus métier et développement de nouvelles fonctionnalités.",
+    company: "Dirickx Guard",
+    description: "Développement et maintenance d'applications internes, notamment GRH/Admin et TLS. Amélioration des processus métier et développement de nouvelles fonctionnalités.",
     icon: BriefcaseBusiness,
   },
   {
@@ -14,6 +14,13 @@ const experiences = [
     title: "Master professionnel en informatique",
     company: "ENI",
     description: "Formation supérieure en informatique et développement logiciel.",
+    icon: GraduationCap,
+  },
+  {
+    date: "2018 — 2021",
+    title: "Licence professionnelle",
+    company: "École Nationale d’Informatique (ENI)",
+    description: "Formation en informatique générale.",
     icon: GraduationCap,
   },
 ];
