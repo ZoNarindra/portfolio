@@ -45,7 +45,7 @@ export default function Contact() {
               <span className="min-w-0 flex-1 text-xs sm:text-sm">GitHub</span>
               <ArrowUpRight className="shrink-0" size={17} />
             </a>
-            <a href="https://linkedin.com/" target="_blank" rel="noreferrer" className="flex min-w-0 items-center gap-3 rounded-xl border border-white/10 bg-black/20 p-3 transition hover:border-purple-500/40 sm:gap-4 sm:p-4">
+            <a href="https://www.linkedin.com/in/zo-narindra-rakotoherimanana-6b0a54311/" target="_blank" rel="noreferrer" className="flex min-w-0 items-center gap-3 rounded-xl border border-white/10 bg-black/20 p-3 transition hover:border-purple-500/40 sm:gap-4 sm:p-4">
               <SocialIcon name="linkedin" />
               <span className="min-w-0 flex-1 text-xs sm:text-sm">LinkedIn</span>
               <ArrowUpRight className="shrink-0" size={17} />
